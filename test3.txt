@@ -1,0 +1,9 @@
+int arg3, arg4, arg5;
+while true:
+    arg3 += 1
+    arg4 -= 3
+    arg5 == arg3 + arg4
+function print;
+    print(arg3)
+    print(arg4)
+    print(arg5)
